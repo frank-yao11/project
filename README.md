@@ -6,10 +6,11 @@ This collection builds off the original compilation from a blog post.
 
 General
 
-2017
-machine learning
-[video lecture](http://videolectures.net/) 
-[TechTalks.tv ](http://techtalks.tv/)
+2017<br /> 
+machine learning<br /> 
+[video lecture](http://videolectures.net/) <br /> 
+[TechTalks.tv ](http://techtalks.tv/)<br /> 
+[bayesian reinforced learing](https://github.com/dustinvtran/ml-videos)<br /> 
 
 
 
