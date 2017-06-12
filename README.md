@@ -7,6 +7,10 @@ This collection builds off the original compilation from a blog post.
 General
 
 2017
-机器学习视频
-[video lecture](http://videolectures.net/)
+machine learning
+[video lecture](http://videolectures.net/) 
+[TechTalks.tv ](http://techtalks.tv/)
+
+
+
 
