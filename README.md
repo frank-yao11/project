@@ -12,6 +12,9 @@ machine learning<br />
 [TechTalks.tv ](http://techtalks.tv/)<br /> 
 [bayesian reinforced learing](https://github.com/dustinvtran/ml-videos)<br /> 
 
-
-
+#######   
+tools<br /> 
+juypter notebook<br /> 
+[ref1](https://www.howtoing.com/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04/)<br /> 
+[ref2](http://python.jobbole.com/87527/?repeat=w3tc)
 
