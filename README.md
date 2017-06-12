@@ -15,6 +15,7 @@ machine learning<br />
 #######   
 tools<br /> 
 juypter notebook<br /> 
-[ref1](https://www.howtoing.com/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04/)<br /> 
-[ref2](http://python.jobbole.com/87527/?repeat=w3tc)
-
+[ref1](https://www.howtoing.com/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04/)
+[ref2](http://python.jobbole.com/87527/?repeat=w3tc)<br /> 
+git<br /> 
+[ref1](http://jingyan.baidu.com/article/f3e34a12a25bc8f5ea65354a.html)[ref2](http://blog.csdn.net/tina_ttl/article/details/51326684)<br /> 
