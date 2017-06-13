@@ -22,5 +22,7 @@ juypter notebook<br />
 [ref2](http://python.jobbole.com/87527/?repeat=w3tc)<br /> 
 git<br /> 
 [ref1](http://jingyan.baidu.com/article/f3e34a12a25bc8f5ea65354a.html)[ref2](http://blog.csdn.net/tina_ttl/article/details/51326684)<br />
-
+programming <br />
+lua <br />
+[online book](http://www.lua.org/pil/contents.html)
 
