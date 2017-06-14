@@ -13,8 +13,8 @@ machine learning<br />
 [bayesian reinforced learing](https://github.com/dustinvtran/ml-videos)<br /> 
 
 Style transfer<br /> 
-[junyan zhu](https://github.com/junyanz)
-
+[junyan zhu](https://github.com/junyanz)<br /> 
+[cycle GAN](https://github.com/junyanz/CycleGAN#display-ui)<br /> 
 #######   
 tools<br /> 
 juypter notebook<br /> 
