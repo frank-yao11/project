@@ -25,4 +25,4 @@ git<br />
 programming <br />
 lua <br />
 [online book](http://www.lua.org/pil/contents.html)
-
+[ssh sublime](https://stackoverflow.com/questions/15958056/how-to-use-sublime-over-ssh)
