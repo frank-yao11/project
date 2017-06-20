@@ -26,3 +26,10 @@ programming <br />
 lua <br />
 [online book](http://www.lua.org/pil/contents.html)
 [ssh sublime](https://stackoverflow.com/questions/15958056/how-to-use-sublime-over-ssh)
+screen method <br />
+[screen -S  name  创建screen](http://www.cnblogs.com/gotodsp/p/6375005.html)<br />
+screen -r  name  重连screen<br />
+
+
+
+
