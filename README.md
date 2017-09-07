@@ -24,6 +24,7 @@ git<br />
 [ref1](http://jingyan.baidu.com/article/f3e34a12a25bc8f5ea65354a.html)[ref2](http://blog.csdn.net/tina_ttl/article/details/51326684)<br />
 programming <br />
 lua <br />
+[pytorch](https://github.com/yunjey)
 [online book](http://www.lua.org/pil/contents.html)
 [ssh sublime](https://stackoverflow.com/questions/15958056/how-to-use-sublime-over-ssh)
 screen method <br />
